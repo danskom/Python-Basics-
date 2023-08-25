@@ -1,0 +1,30 @@
+import numpy as np
+
+def function():
+    print('test 1')
+    print('test 2')
+    print('test 3')
+
+function()
+
+List_1 = [1,2,3,4,5]
+
+x=5
+
+def function_1 ():
+    print (x + 5)
+
+function_1()
+ 
+
+print(List_1)
+
+def function_2(y):
+    print (np.arccos(y))
+
+function_2((1))
+
+
+
+
+

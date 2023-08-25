@@ -1,0 +1,15 @@
+#Bitwise operators
+
+x = [ord(character) for character in "€uro"]
+
+print(x)
+
+from math import factorial
+
+print(factorial(42))
+print(print(factorial(42).bit_length()))
+
+print(bin(42))
+print(bin(factorial(42)))
+
+print(int(0b11110000010101100000011101010010010001101100101000111101010010001111000010001110101011110111110011010110110110100010011100100100001000000000000000000000000000000000000000))
