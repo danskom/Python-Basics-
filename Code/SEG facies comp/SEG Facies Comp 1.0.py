@@ -1,4 +1,5 @@
-#This file opens the both the SEGY test data and label volume and loads a slice to visualise it  
+#This file opens the both the SEGY test data and label volume and loads a slice to visualise it aslo saves a subvolume of the data which is more manipulable on
+#my computer
 
 import segyio
 
