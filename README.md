@@ -1,4 +1,4 @@
-# Python Basic 
+# Python Basics 
 
 
 This repository is the prepartion that I have completed with a view to reading for a PhD or MSc. My aim is to be fully proficient in Python with heavy slant towards M.L. and geophysics. Most of the files here exercises from Codewars as well as other learning materials and notes. 
